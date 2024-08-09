@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for giftcarttools on 2024-08-08T11:44:15+05:30
+# fly.toml app configuration file generated for giftcarttools-weathered-haze-5842 on 2024-08-08T17:55:42+05:30
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'giftcarttools'
+app = 'giftcarttools-weathered-haze-5842'
 primary_region = 'hkg'
 
 [build]
